@@ -11,14 +11,7 @@ From offshore gas platforms to inland LNG hubs, Woodside's operations depend on 
 
 Historically, knowing where a part was --- or when it would arrive --- meant combing through disconnected systems and chasing updates. That's not sustainable in a business that depends on operational continuity. The shift came when Woodside adopted AWS Supply Chain.
 
-## About
 
-Place the code for this article in this repository.
-The original article export is saved as `article.md`.
-
-## Files
-
-Add your `.ipynb`, `.py`, `.yaml`, `.js`, `.ts`, or other project files here.
 
 ## Disclaimer
 
